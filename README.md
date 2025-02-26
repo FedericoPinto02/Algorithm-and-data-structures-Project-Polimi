@@ -27,6 +27,15 @@ By using the verifier's data, my project has the following memory and execution 
 
 These results may vary depending on the computing power of the machine.
 
+## Principal implementative Choices
+### Linked List: 
+Used to manage highway stations (stazione), maintaining an ordered sequence with prev and next pointers.
+### Hash Table: 
+Enables fast station lookup, implemented with separate chaining to handle collisions.
+### Heap Sort: 
+Ensures cars at each station are stored in sorted order, using a max heap for efficient sorting.
+
+## Other stuff
 The complete project specification is available [here](project_specifications.pdf).
 
 The test cases are available [here](Test).
