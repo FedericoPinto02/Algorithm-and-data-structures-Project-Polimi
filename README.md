@@ -1,4 +1,4 @@
-# Algorithm-and-data-structures-Project-Polimi - A.Y. 2023-2024
+# Algorithm-and-data-structures-Project-Polimi - A.Y. 2022-2023
 
 Final project for Algorithms and Principles of Computer Science for the academic year 2022-2023.
 
