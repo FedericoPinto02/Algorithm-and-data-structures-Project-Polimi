@@ -33,9 +33,9 @@ The test cases are available [here](Test).
 ## Tools Used
 
 | Description        | Tool                                       |
-|-------------------|-------------------------------------------|  |
+|-------------------|-------------------------------------------|  
 | Compiler         | [gcc](https://gcc.gnu.org/)               |
-| Memory profiling | [Valgrind - Massif](https://valgrind.org/) |
-| Operating system | Mac OS                |
+| Memory profiling | [Valgrind - Massif](https://valgrind.org/)|
+| Operating system | Mac OS |
 
 
