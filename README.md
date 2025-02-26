@@ -4,6 +4,9 @@
 
 Final project for Algorithms and Principles of Computer Science for the academic year 2022-2023.
 
+### Goal:
+design and development of an efficient solution to a complex problem using algorithms and structures taught in the course.
+
 Instructor: Martineghi Davide
 
 **Grade**: 30/30
