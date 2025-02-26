@@ -28,12 +28,7 @@ These results may vary depending on the computing power of the machine.
 
 The complete project specification is available [here](project_specifications.pdf).
 
-The test cases are available [here](https://github.com/ale-polimi/progetto-API-2023/blob/master/documents/open_tests).
-
-## Design Choices
-
-The data structure representing the highway is a [doubly linked list]
-
+The test cases are available [here](Test).
 
 ## Tools Used
 
