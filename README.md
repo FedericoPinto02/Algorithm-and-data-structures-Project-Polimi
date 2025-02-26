@@ -1,6 +1,4 @@
 # Algorithm-and-data-structures-Project-Polimi
-[![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://github.com/ale-polimi/progetto-API-2023/blob/master/LICENSE)
-
 
 Final project for Algorithms and Principles of Computer Science for the academic year 2022-2023.
 
